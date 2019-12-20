@@ -1,0 +1,28 @@
+#calc{
+  height: 400px;
+  width: 220px;
+  background-color: rgba(231, 216, 216,0.5);
+}
+.screen{
+  width: 100%;
+  text-align: center;
+  background-color: aquamarine;
+  margin-top: 5px;
+  border-radius: 5%;
+}
+.settings li{
+  display: inline-block;
+  list-style-type: none;
+}
+.buttons li{
+  display: inline-block;
+  list-style-type: none;
+}
+button{
+  text-align: center;
+}
+ul{
+  width: 100%;
+  margin: 20px 10px;
+  padding: 0 20px;
+}
